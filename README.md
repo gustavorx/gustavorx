@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Gustavo, a software engineer who enjoys building software and figuring out why it breaks.
+
+Mostly working with **.NET/C#**, distributed systems and backend architecture.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gustavorx&theme=dark&hide_border=true&border_radius=19.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <!--
 **gustavorx/gustavorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
